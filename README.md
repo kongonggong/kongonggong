@@ -2,7 +2,8 @@
 
 **`IDK`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a Computer Engineering student with a strong enthusiasm for software development and data science. I thrive on
+tackling complex challenges through creativity and a deep understanding of problems.
 
 ### 🧰 Languages and Tools
 
